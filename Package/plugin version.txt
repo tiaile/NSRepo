@@ -1,0 +1,18 @@
+[breeze]         [251014]--https://gitee.com/haomaker/cheatcodes/releases/
+[batterydesyncfix][1.5.1]--https://github.com/CTCaer/battery_desync_fix_nx/releases
+[Checkpoint]     [3.10.2]--https://www.tekqart.com/thread-417862-1-1.html?_dsign=542f6bf4
+[cloud]          [1.0.0]--?
+[DBI]            [868]   --https://shipengliang.com/games/%e7%ab%af%e5%8d%88%e8%8a%82%e5%84%bf%e7%ab%a5%e8%8a%82%e7%a4%bc%e7%89%a9%ef%bc%9a%e5%85%a8%e7%90%83%e9%a6%96%e5%8f%91-dbi-%e4%b8%ad%e6%96%87%e7%89%88.html
+[duckstation]    [pre2]  --https://www.tekqart.com/thread-439958-1-1.html?_dsign=38db18a9
+[flycast]        [2.5.0]--?
+[hekate toolbox] [202511111]--?
+[JKSV]           [20251116]--https://github.com/J-D-K/JKSV
+[linkalho]       [2.0.3]--?
+[mGBA]           [0.10.5]--?
+[melondDS]       [260115]--https://www.tekqart.com/thread-421120-1-1.html?_dsign=67559dea
+[Moonlight]      [1.3.4]--https://github.com/XITRIX/Moonlight-Switch
+[ns icon toolbox][0.4.4]--https://github.com/dslatt/nso-icon-tool/releases
+[NX-Mod-Manager] [2.2.6]--https://www.tekqart.com/thread-428925-1-1.html
+[NX-Activity-Log][1.5.7]--https://github.com/zdm65477730/NX-Activity-Log/releases
+[PPSSPP]         [1.18.1]--https://www.tekqart.com/thread-440397-1-1.html?_dsign=33fa25f8
+[Tinfoil]         https://tinfoil.io/Download
